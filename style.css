@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(134, 130, 130);
+}
+
+div{
+    text-align: center;
+}
+.img1{
+    width: 40%;
+    height: 30%;
+}
