@@ -2,14 +2,16 @@ body{
     background-color: rgb(134, 130, 130);
 }
 
-div{
-    text-align: center;
-}
 .img1{
-    width: 40%;
-    height: 30%;
+    width: 45%; 
+    height: 60%;
 }
 .cabeçalho{
     background-color: blue;
     color: red;
+    display: flex; 
+    justify-content: space-around;
+} 
+.cabeçalho-lista-item{
+    display: inline-block;
 }
